@@ -14,4 +14,4 @@
 ##### 5. This End User License Agreement is subject to change at any time, and it is your responsibility to stay informed of any changes.
 ##### 6. All the original code used to build The Minecraft Recreation Project is owned by Mojang AB. The Minecraft Recreation Project follows the End User License Agreement of Mojang AB in order to comply with the law. 
 
-#### By using The Minecraft Recreation Project, you are agreeing to the terms outlined in this End User License Agreement. If you do not agree to these terms, do not use any resources that this repository has.
+#### By using The Minecraft Recreation Project, you are agreeing to the terms outlined in this End User License Agreement. If you do not agree to these terms, do not use any resources that this repository offers in front of the end user.

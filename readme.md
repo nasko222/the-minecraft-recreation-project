@@ -1,5 +1,5 @@
-### The Minecraft Recreation Project
-### by method, nasko222 (and others)
+### **The Minecraft Recreation Project**
+### *by method, nasko222 (and others)*
 
 
 

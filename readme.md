@@ -1,9 +1,9 @@
 # The Minecraft Recreation Project
-## by method, nasko222 (and others)
+### by method, nasko222 (and others)
 
-### End User License Agreement
+## End User License Agreement
 
-#### By using any Minecraft Missing Versions (Remakes), you agree to the following terms:
+#### By using any resources provided by The Minecraft Recreation Project, you agree to the following terms:
 
 ##### 1. You will not redistribute any remakes without express written permission from the original author.
 ##### 2. You will give credit to the original author whenever using the "missing-versions" project.

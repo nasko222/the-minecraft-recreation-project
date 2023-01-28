@@ -1,7 +1,9 @@
-# The Minecraft Recreation Project
+### The Minecraft Recreation Project
 ### by method, nasko222 (and others)
 
-## End User License Agreement
+
+
+# End User License Agreement
 
 #### By using any resources provided by The Minecraft Recreation Project, you agree to the following terms:
 

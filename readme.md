@@ -15,3 +15,6 @@
 ##### 6. All the original code used to build The Minecraft Recreation Project is owned by Mojang AB. The Minecraft Recreation Project follows the End User License Agreement of Mojang AB in order to comply with the law. 
 
 #### By using The Minecraft Recreation Project, you are agreeing to the terms outlined in this End User License Agreement. If you do not agree to these terms, do not use any resources that this repository offers in front of the end user.
+
+# Disclaimer
+#### All content provided by The Minecraft Recreation Project is for educational and demonstrational purposes only and should not be used or abused in front of archival Minecraft scenes such as Omniarchive. The project aims to provide a gameplay experience of missing builds of the game, until the real ones are found.

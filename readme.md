@@ -17,4 +17,4 @@
 #### By using The Minecraft Recreation Project, you are agreeing to the terms outlined in this End User License Agreement. If you do not agree to these terms, do not use any resources that this repository offers in front of the end user.
 
 # Disclaimer
-#### All content provided by The Minecraft Recreation Project is for educational and demonstrational purposes only and should not be used or abused in front of archival Minecraft scenes such as Omniarchive. The project aims to provide a gameplay experience of missing builds of the game, until the real ones are found.
+#### All content provided by The Minecraft Recreation Project is for educational and demonstrational purposes only and should not be used or abused in front of Minecraft archival scenes such as Omniarchive. The Minecraft Recreation Project aims to provide a gameplay experience of missing builds of the game, until the real ones are found.

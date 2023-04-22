@@ -3,6 +3,10 @@
 
 ###### (Keep in mind: Small part of these versions are either speculations or inside jokes)
 
+## Contributors
+
+- @Gianni46363
+- @uJONESTHEBIRD
 
 # End User License Agreement
 

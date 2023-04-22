@@ -3,11 +3,6 @@
 
 ###### (Keep in mind: Small part of these versions are either speculations or inside jokes)
 
-## Contributors
-
-- @Gianni46363
-- @uJONESTHEBIRD
-
 # End User License Agreement
 
 #### By using any resources provided by The Minecraft Recreation Project, you agree to the following terms:

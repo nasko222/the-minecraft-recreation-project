@@ -1,8 +1,6 @@
 ### **The Minecraft Recreation Project**
 ### *by method, nasko222 (and others)*
 
-###### (Keep in mind: Small part of these versions are either speculations or inside jokes)
-
 # End User License Agreement
 
 #### By using any resources provided by The Minecraft Recreation Project, you agree to the following terms:

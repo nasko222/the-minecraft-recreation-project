@@ -1,5 +1,6 @@
 ### **The Minecraft Recreation Project**
-### *by method, nasko222 (and others)*
+### Originally created and started by method
+### *Continued by nasko222 and others (Credits page soon)*
 
 # End User License Agreement
 

@@ -118,6 +118,7 @@ MD5 hash of in-20100124-2119.jar - 3ea705ef08f229c2e5d78585a46bfe25
 MD5 hash of in-20100126-dev.jar - f8d684d5c40aa61a192bfc55f0e2d400
 MD5 hash of in-20100128-2203.jar - 24838d01470a1f8b7f394100dfbf9f9b
 MD5 hash of in-20100129-1447.jar - 48d4db392d65a6e7b875fe6257b4e44e
+MD5 hash of in-20100129-1447.jar - 1c562c32b131dfbe9048585207aa7379
 MD5 hash of in-20100131-2156.jar - 5ba41ac5621f96d4817f51fb01011854
 MD5 hash of in-20100131-2229.jar - 6d4a5e3175957fcc0e6009497e67e5e2
 MD5 hash of in-20100131-2236.jar - efecb2877cff361d19eca1e3f3b69a5a
@@ -143,8 +144,12 @@ MD5 hash of inf-20100321-dev.jar - 1bb81fe4d414fb9b0a6e1325dc087e5d
 MD5 hash of inf-20100326-dev.jar - 6edecc68015439e3c048d1b15a83f2c1
 MD5 hash of inf-20100330-1203.jar - 7578e210232fc2fbc35676f217c462dd
 MD5 hash of inf-20100408-dev.jar - 848539501a57d200630b21b7d9eb5713
-MD5 hash of inf-20100601-dev.jar - beef9b0a31d8f376826890a8703e2e1a
-MD5 hash of inf-20100603-dev.jar - bd5429e3a32518ca8c40cf4f3ef3c85e
+MD5 hash of inf-20100601-dev.jar - 465738f712ba89607aab458b5dffbc3e
+MD5 hash of inf-20100602-dev.jar - d63d867291843d978fc956035eee14f5
+MD5 hash of inf-20100603-dev.jar - 4558efcdc5da3323e7c9c1ff0976108b
+MD5 hash of inf-20100603-dev2.jar - cfe83a95edd01ba85d7197cc5c99e422
+MD5 hash of inf-20100605-dev.jar - 57d89de4c735c3c6af989ea3368dbbc6
+MD5 hash of inf-20100605-dev2.jar - 71f48f0fcd17fc28054497cfc547dfaf
 MD5 hash of inf-20100614-dev.jar - 0756dcabf4e1653b1feadda1c51120e9
 MD5 hash of inf-20100616-dev.jar - 0ad6cdc208307738d6e8074b0c049d91
 MD5 hash of inf-20100616-2210.jar - f84e796f65a0fc6a1fdc4368cf22fec9

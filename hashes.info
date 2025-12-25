@@ -143,6 +143,7 @@ MD5 hash of in-20100206-dev.jar - f93edb480c53cfb9264daed9f566eae4
 MD5 hash of in-20100206-dev2.jar - 2fe9506017dd10ed8430577d78a23f71
 MD5 hash of in-20100206-dev3.jar - 967ef7a327fe7e595a40f0a92750ffcb
 MD5 hash of in-20100206-2034.jar - 10661bd1761a960fd79fb156cb07ccb5
+MD5 hash of in-20100207-1647.jar - 3b633e22498aa1d96c69ebe7b4087f3b
 MD5 hash of in-20100209-dev.jar - 346d910cfe16744257198379329cd005
 MD5 hash of in-20100211-dev.jar - 5f121e8c03d9ac773298d14dcb0c9985
 MD5 hash of in-20100211-dev2.jar - 367723ce4e746c422edb34515adf4e25
@@ -206,6 +207,7 @@ MD5 hash of b1.6-trailer.jar - 73568bf7d953796280eae9cdabdc5c3f
 MD5 hash of b1.7-dev.jar - a887d7e716e13877a714b8020d6c0ac0
 MD5 hash of b1.7-pre.jar - fd6effd4123e48052fd0f854aeb68884
 MD5 hash of b1.9-dev.jar - 17ae1f229a09bd420d24d3a13ec975d0
+MD5 hash of b1.9-dev2.jar - fad0b719338cb514bd5d2234afe231e9
 MD5 hash of b1.9-b-2-230911.jar - e7fdc72c42d4d3080e81778e2adbd1ac
 MD5 hash of b1.9-b-2-231149.jar - c5c8f00c6dfa7339f230bf898aa73e41
 MD5 hash of b1.9-pre2-dev.jar - 7c1c9b8dc44e423c6c7c3ef393042f8e
@@ -221,6 +223,9 @@ MD5 hash of b1.9-pre4-dev5.jar -
 MD5 hash of b1.9-pre4-dev6.jar - 
 MD5 hash of b1.9-pre4-dev7.jar - 
 MD5 hash of b1.9-pre4-dev8.jar - 
+MD5 hash of b1.9-pre4-dev9.jar - 
+MD5 hash of b1.9-pre4-dev10.jar - 
+MD5 hash of b1.9-pre4-dev11.jar - 
 MD5 hash of b1.9-pre5-dev.jar - 29a87e1c780c7f60068b7899208e9ce0
 MD5 hash of 1.0.0-rc1-dev.jar - 99f45ae5dcfb052e5c79bbf841545823
 MD5 hash of 1.0.1.jar - c53ebf035f5d8ed8dc738d65f287f1a9

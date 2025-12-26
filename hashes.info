@@ -156,6 +156,7 @@ MD5 hash of inf-20100227-dev.jar - b4b1218e38116d1bf9fcf46f7808326b
 MD5 hash of inf-20100227-dev2.jar - a593eba7cc5f10b97c1c99bfdcc7c91c
 MD5 hash of inf-20100227-1414.jar - 3b0876a297ab709c078d933da53f9705
 MD5 hash of inf-20100308-dev.jar - 3044c80766a1026388799303ee45c0cc
+MD5 hash of inf-20100312-dev.jar - 06695518f86a89acc101f7f315a11225
 MD5 hash of inf-20100321-dev.jar - 1bb81fe4d414fb9b0a6e1325dc087e5d
 MD5 hash of inf-20100325-1545.jar - de8cf954d677b428f9ef5e4474bb4253
 MD5 hash of inf-20100326-dev.jar - 8e59a09264648baddd415ba76764dcfb
@@ -171,6 +172,7 @@ MD5 hash of inf-20100614-dev.jar - 0756dcabf4e1653b1feadda1c51120e9
 MD5 hash of inf-20100616-dev.jar - 0ad6cdc208307738d6e8074b0c049d91
 MD5 hash of inf-20100616-2210.jar - f84e796f65a0fc6a1fdc4368cf22fec9
 MD5 hash of inf-20100620-dev.jar - f23ce2d9065603301cdafa88ca70c018
+MD5 hash of inf-20100627-dev.jar - ea749903003c8732906f5aea56876732
 MD5 hash of inf-20100628-dev.jar - dbbb08eda22971159589438a2872985d
 MD5 hash of inf-20100630-dev.jar - b8e9a8b276ad165cbe3a83c83ecf4830
 MD5 hash of a1.0.1.jar - 692fdf22b3ab140529485edb69e8df62
@@ -204,8 +206,7 @@ MD5 hash of b1.4-dev3.jar - d10450d56e48754f1161fde41d6ab176
 MD5 hash of b1.5-dev.jar - a9e4f0c63ab5d1c11ba02a24113169cf
 MD5 hash of b1.5-dev2.jar - f33b66610ce319ee2ce0f34ec6d1eead
 MD5 hash of b1.5_02.jar - beb726ce83adae5bde9ead0237f1a63b
-MD5 hash of b1.6-dev.jar - 3acfc194f924deae3962db9b7c5f9e0f
-MD5 hash of b1.6-trailer.jar - 73568bf7d953796280eae9cdabdc5c3f
+MD5 hash of b1.6-dev.jar - 
 MD5 hash of b1.7-dev.jar - a887d7e716e13877a714b8020d6c0ac0
 MD5 hash of b1.7-pre.jar - fd6effd4123e48052fd0f854aeb68884
 MD5 hash of b1.9-dev.jar - 17ae1f229a09bd420d24d3a13ec975d0
@@ -229,6 +230,7 @@ MD5 hash of b1.9-pre4-dev9.jar -
 MD5 hash of b1.9-pre4-dev10.jar - 
 MD5 hash of b1.9-pre4-dev11.jar - 
 MD5 hash of b1.9-pre5-dev.jar - 29a87e1c780c7f60068b7899208e9ce0
+MD5 hash of 1.0.0-dev.jar - c2ef7e2cc294ccfca40f65f1f609d9db
 MD5 hash of 1.0.0-rc1-dev.jar - 99f45ae5dcfb052e5c79bbf841545823
 MD5 hash of 1.0.1.jar - c53ebf035f5d8ed8dc738d65f287f1a9
 MD5 hash of 12w03a-dev.jar - 8b1f30182c6b83aa09dd0c7c80743e5d
